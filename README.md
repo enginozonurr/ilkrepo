@@ -1,0 +1,3 @@
+# İLKREPO
+
+Git Github kursu
